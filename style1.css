@@ -1,0 +1,53 @@
+
+.navr{
+    padding-left: 280px;
+    text-align: center;
+    float: left;
+}
+
+.navr ul li{
+    padding-right: 20px;
+}
+
+
+
+.cdr{
+    margin-left: 10px;
+}
+/* section{
+    	height: 100vh;
+	width: 100%;
+} */
+
+.cr{
+    margin-left: 60px;
+
+}
+.rr{
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 60px;
+    margin-top: 60px;
+    padding-right: 20px;
+}
+
+.imga{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 70px;
+    align-items: center;
+
+
+}
+.arr{
+    padding-top: 90px;
+    padding-left: 40px;
+}
+.cadrb{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+}
+.tut{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+}
